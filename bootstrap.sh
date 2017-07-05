@@ -4,4 +4,4 @@ echo "Install Complete"
 
 echo "This is the addition"
 
-echo test
+echo test plus more test
